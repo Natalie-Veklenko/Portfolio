@@ -41,9 +41,9 @@ able to comprehend easy codes
 ## Courses :school:
 + [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/)
   
-online courses by Valentin Despa, **UDEMY**
+   online courses by Valentin Despa, **UDEMY**
 
-[JAVA API path](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
++ [JAVA API path](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 ## Information sources :books:
 ### Books 
 
