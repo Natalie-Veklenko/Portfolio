@@ -1,9 +1,9 @@
 # Portfolio
-## About Me
+## About Me  :wave:
 Hi, my name is Nat. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
 
-## CV
-## Skills
+## CV :memo:
+## Skills :briefcase:
 You can find examples of the described skills in the Examples of my work section.
 
 #### Manual testing
@@ -37,12 +37,15 @@ know the difference between joins and unions and can use them in queries
 can write simple functions and algorithms
 know when to use for and while
 able to comprehend easy codes
-## Tools
-## Courses
-Udemy course [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/) /
+## Tools :hammer_and_wrench:
+## Courses :school:
++ [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/)
+  
+online courses by Valentin Despa, **UDEMY**
+
 [JAVA API path](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
-## Information sources
-### Books
+## Information sources :books:
+### Books 
 
 ### Podcasts
 [DOU-найбільша 🇺🇦 ІТ-спільнота.](https://www.youtube.com/@DOU_youtube)
