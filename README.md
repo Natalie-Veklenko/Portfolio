@@ -41,6 +41,10 @@ able to comprehend easy codes
 ## Courses
 Udemy course [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/) /
 [JAVA API path](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
-## Examples of my work
-## Books
+## Information sources
+### Books
+
+### Podcasts
+[DOU-найбільша 🇺🇦 ІТ-спільнота.](https://www.youtube.com/@DOU_youtube)
+### Blogs
 
