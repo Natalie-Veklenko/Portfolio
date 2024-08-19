@@ -38,6 +38,9 @@ can write simple functions and algorithms
 know when to use for and while
 able to comprehend easy codes
 ## Tools :hammer_and_wrench:
++ [Trello](https://trello.com/invite/66c31c493e8147de5261f0b4/ATTIf939fc9ab9f2cc125cacbffbeb2d3af93706A2FD)
+
++ 
 ## Courses :school:
 + [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/)
   
