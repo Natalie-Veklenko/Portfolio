@@ -15,28 +15,39 @@ gained hands-on experience by testing applications created for educational purpo
 
 familiar with functional decomposition of products, creating state transition diagrams, writing use cases
 can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+
 #### API testing
 
 know the difference between SOAP and REST APIs
 gained experience through manual testing of APIs created for educational purposes
 know how to manipulate requests and create test cases using the SoapUI tool
+
 #### Exploratory testing
 
 capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+
 #### Test documentation
 
-can create test cases and checklists and know how and in which situations to use them effectively
-able to prepare comprehensive bug reports and provide detailed session reports
+I have the necessary knowledge and experience to create critical test documantation as a test-paln, test-cases, checklists and ets. and know how and in which situations to use them effectively.
+Able to prepare comprehensive bug reports and provide detailed session reports. 
+[TEST PLAN](https://drive.google.com/drive/folders/1TznoWlBjHFHSSMRe00UVkCHkbEf7nq1N?usp=drive_link)
+[TEST-CASE]()
+[Check-list]()
+[USER-STORY]()
+[BUG-REPORTS]()
+
 #### SQL databases
 
 can write complex requests using subqueries
 familiar with the use of aliases and wildcards
 know the difference between joins and unions and can use them in queries
+
 #### Python fundamentals
 
 can write simple functions and algorithms
 know when to use for and while
 able to comprehend easy codes
+
 ## Tools :hammer_and_wrench:
 + [Trello](https://trello.com/invite/66c31c493e8147de5261f0b4/ATTIf939fc9ab9f2cc125cacbffbeb2d3af93706A2FD)
 
