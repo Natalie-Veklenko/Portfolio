@@ -31,9 +31,13 @@ capable of using Whittaker’s test tours and creating cheat-lists for testing w
 I have the necessary knowledge and experience to create critical test documantation as a test-paln, test-cases, checklists and ets. and know how and in which situations to use them effectively.
 Able to prepare comprehensive bug reports and provide detailed session reports. 
 [TEST PLAN](https://drive.google.com/drive/folders/1TznoWlBjHFHSSMRe00UVkCHkbEf7nq1N?usp=drive_link)
+
 [TEST-CASE]()
-[Check-list]()
+
+[Check-list](https://docs.google.com/spreadsheets/d/1gF9F2PcJiW3OJ6N3KRCrW0MUARm5XUve7kqG9EYjsfU/edit?usp=sharing)
+
 [USER-STORY]()
+
 [BUG-REPORTS]()
 
 #### SQL databases
