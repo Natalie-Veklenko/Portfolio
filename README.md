@@ -51,7 +51,7 @@ Januar 2025 - August 2025
 **🔹 SQL (Udemy)**
 - Certificate(link)
 
-[View SQL tasks](link)
+[View SQL tasks](https://github.com/Tala-Veklenko/SQL_Practice.git)
 
 
 **🔹 JavaScript (Udemy)**
